@@ -18,6 +18,7 @@ namespace ConsoleApp29
                 if (b == 0)
                 {
                     Console.WriteLine("Всяко х е решение на линейното уравнение");
+					Console.WriteLine("Всяко х е решение на линейното уравнение");
 
                 }
                 else
